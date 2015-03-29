@@ -24,7 +24,7 @@ CSS  Resources
 - [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/) by [@Rachel Nabors](http://www.smashingmagazine.com/author/rachelnabors/)
 - [Animation Principles for the Web](https://cssanimation.rocks/principles/)
 - [Invisible animation](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5) by [@Steven Fabre](https://medium.com/@stevenfabre)
-- [Creating a Collection of CSS3 Animated Pre-loaders](http://webdesign.tutsplus.com/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978) by [@Aaron Lumsden](http://tutsplus.com/authors/aaron-lumsden)
+- [Creating a Collection of CSS3 Animated Pre-loaders](http://webdesign.tutsplus.com/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978) by [@Aaron Lumsden](http://tutsplus.com/authors/aaron-lumsden)[已认领]
 - [CSS Animation Trends in Web Design](http://marketblog.envato.com/trends/css-animation-trends-in-web-design/) by @Jake Rocheleau
 - [Animating List Items](https://cssanimation.rocks/list-items/)
 
